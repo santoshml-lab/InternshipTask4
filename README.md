@@ -4,7 +4,7 @@ A modern, responsive enterprise dashboard built using semantic HTML5, CSS3, CSS 
 
 ## 🚀 Live Demo
 
-https://internship-task-4-jet.vercel.app/
+https://internship-task4-jet.vercel.app/
 
 ## 📌 Project Overview
 
